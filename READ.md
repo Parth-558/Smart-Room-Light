@@ -19,6 +19,16 @@ An intelligent Arduino-based lighting system that reacts to **light levels**, **
 
 ![Circuit Diagram](Smart-Room-Light/Smart_room_light.png)
 
+---
+
+## 📄 Arduino Code
+
+📂 Click to view the full code here:  
+[`SmartFanControl.ino`](./SmartFanControl.ino)
+
+> Contains complete logic for auto/manual fan control using temperature and push button.
+
+
 ```text
 LDR         --> A0 + 5V (with 10k to GND)
 PIR Sensor  --> D2
