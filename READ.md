@@ -30,7 +30,7 @@ An intelligent lighting system using **LDR**, **PIR**, **manual override**, and 
 
 ## 🖼️ Circuit Diagram
 
->(Smart-Room-Light/Smart_room_light.png)
+>(Smart_room_light.png)
 
 ```
 LDR       --> A0 + 5V (via 10k resistor to GND)
