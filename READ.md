@@ -17,7 +17,7 @@ An intelligent Arduino-based lighting system that reacts to **light levels**, **
 
 ## 🖼️ Circuit Overview
 
-![Circuit Diagram](Smart_room_light.png)
+![Circuit Diagram](Smart-Room-Light/Smart_room_light.png)
 
 ```text
 LDR         --> A0 + 5V (with 10k to GND)
